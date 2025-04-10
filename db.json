@@ -1,0 +1,130 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "mohadem mohamed",
+      "position": "Software Engineer",
+      "department": "devolper",
+      "email": "44@ga"
+    },
+    {
+      "id": 2,
+      "name": "noha mohamed",
+      "position": "Project Manager",
+      "department": "Operations",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "ohamed kimo",
+      "position": "Data Analyst",
+      "department": "Analytics",
+      "email": "michael.brown@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "position": "UI/UX Designer",
+      "department": "Design",
+      "email": "emily.davis@example.com"
+    },
+    {
+      "id": 5,
+      "name": "alia magdy",
+      "position": "DevOps Engineer",
+      "department": "IT",
+      "email": "chris.wilson@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Johnson",
+      "position": "HR Specialist",
+      "department": "Human Resources",
+      "email": "sarah.johnson@example.com"
+    },
+    {
+      "id": 7,
+      "name": "David Lee",
+      "position": "Marketing Manager",
+      "department": "Marketing",
+      "email": "david.lee@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Sophia Martinez",
+      "position": "Accountant",
+      "department": "Finance",
+      "email": "sophia.martinez@example.com"
+    },
+    {
+      "id": 9,
+      "name": "James Anderson",
+      "position": "Sales Executive",
+      "department": "Sales",
+      "email": "james.anderson@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Olivia Taylor",
+      "position": "Content Writer",
+      "department": "Content",
+      "email": "olivia.taylor@example.com"
+    },
+    {
+      "id": "12",
+      "name": "mohamed magdy mohamed",
+      "position": "it",
+      "department": "it",
+      "email": "soso@qwe"
+    },
+    {
+      "id": "13",
+      "name": "gogo",
+      "position": "it",
+      "department": "it",
+      "email": "we@asdfasdf"
+    },
+    {
+      "id": "22",
+      "name": "kimo",
+      "position": "it",
+      "department": "it",
+      "email": "asdf@sdfasdf"
+    },
+    {
+      "id": "45",
+      "name": "soos",
+      "position": "devloper",
+      "department": "devolper",
+      "email": "lasdf@231"
+    },
+    {
+      "id": "111111",
+      "name": "kimo",
+      "position": "devloper",
+      "department": "devolper",
+      "email": "we@asdfasdf"
+    },
+    {
+      "id": "222",
+      "name": "kimo",
+      "position": "devloper",
+      "department": "it",
+      "email": "we@asdfasdf"
+    },
+    {
+      "id": "225",
+      "name": "mohamed magdy mohamed",
+      "position": "devloper",
+      "department": "it",
+      "email": "we@asdfasdf"
+    },
+    {
+      "id": "226",
+      "name": "kimo",
+      "position": "devloper",
+      "department": "it",
+      "email": "lasdf@231"
+    }
+  ]
+}
